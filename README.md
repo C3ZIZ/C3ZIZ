@@ -2,7 +2,7 @@
 
   # Hi there, I'm Abdulaziz (C3ZIZ) 👋
 
-  **Backend Engineer | AI & RAG Specialist | Full Stack Developer**
+  **Backend Engineer | AI & RAG Specialist**
 
   <br />
 
@@ -43,12 +43,12 @@
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJuNTgydnh2c2V0bmo5dHR2Z295bmRoOGY4czN0OXVodXkzdjdvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
 
-I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems. I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products.
+I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems. My passion lies in architecting robust backend logic and integrating **RAG architectures**.
 
-Currently, I am expanding into **ML engineering** and **NLP** while building efficient solutions using **FastAPI** and **Laravel**.
+While my core strength is in Backend & AI, I am **actively building towards Full Stack mastery** by integrating clean React interfaces to ship complete, production-ready products.
 
 * 🔭 **Current Focus:** RAG Systems, AI Agents, and NLP.
-* 🌱 **Experience:** Full-stack development with **React (Vite)** and **Laravel**.
+* 🌱 **Building Towards:** Advanced Full Stack Architecture (React/Vite).
 * 🎓 **Education:** B.S. Computer Science (First Class Honors).
 
 <br clear="right"/>
@@ -69,6 +69,7 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 ---
 
 ### 📂 Open Source & Personal Projects
+
 
 <br/>
 
