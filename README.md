@@ -43,13 +43,13 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 <div align="center">
   <a href="https://github.com/C3ZIZ/Dalil-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Dalil-RAG&theme=tokyonight&show_owner=true" alt="Dalil-RAG" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Dalil-RAG&theme=tokyonight" alt="Dalil-RAG" />
   </a>
   <a href="https://github.com/C3ZIZ/Bayan-binbaz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Bayan-binbaz&theme=tokyonight&show_owner=true" alt="Bayan-binbaz" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Bayan-binbaz&theme=tokyonight" alt="Bayan-binbaz" />
   </a>
   <a href="https://github.com/C3ZIZ/Abdulaziz-Core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Abdulaziz-Core&theme=tokyonight&show_owner=true" alt="Abdulaziz-Core" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Abdulaziz-Core&theme=tokyonight" alt="Abdulaziz-Core" />
   </a>
 </div>
 
@@ -77,7 +77,7 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C3ZIZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C3ZIZ&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3ZIZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3ZIZ&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
