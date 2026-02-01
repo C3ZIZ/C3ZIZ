@@ -4,34 +4,27 @@
 
   **Backend Engineer | AI & RAG Specialist | Full Stack Developer**
 
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td align="center" width="90" style="border: none;">
-        <a href="https://ahhh.sa" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="40" alt="Portfolio" />
-          <br /><b>Portfolio</b>
-        </a>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <a href="https://linkedin.com/in/ahhafiz" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn" />
-          <br /><b>LinkedIn</b>
-        </a>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <a href="https://x.com/CI3ZIZ" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40" alt="X" />
-          <br /><b>X</b>
-        </a>
-      </td>
-      <td align="center" width="90" style="border: none;">
-        <a href="https://wa.me/966538623767" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="40" alt="WhatsApp" />
-          <br /><b>WhatsApp</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <br />
+
+  <a href="https://ahhh.sa" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="40" alt="Portfolio" />
+    <br /><b>Portfolio</b>
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://linkedin.com/in/ahhafiz" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn" />
+    <br /><b>LinkedIn</b>
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://x.com/CI3ZIZ" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40" alt="X" />
+    <br /><b>X</b>
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://wa.me/966538623767" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="40" alt="WhatsApp" />
+    <br /><b>WhatsApp</b>
+  </a>
 
 </div>
 
