@@ -6,16 +6,16 @@
 
   <p>
     <a href="https://ahhh.sa" target="_blank">
-      <img src="https://www.svgrepo.com/show/502858/suitcase-1.svg" width="30" alt="Portfolio" />
-    </a>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="35" alt="Portfolio" />
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/ahhafiz" target="_blank">
-      <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="30" alt="LinkedIn" />
-    </a>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="35" alt="LinkedIn" />
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/CI3ZIZ" target="_blank">
-      <img src="https://www.svgrepo.com/show/503359/twitter.svg" width="30" alt="X" />
-    </a>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="35" alt="X" />
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/966538623767" target="_blank">
-      <img src="https://www.svgrepo.com/show/452123/whatsapp.svg" width="30" alt="WhatsApp" />
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="35" alt="WhatsApp" />
     </a>
   </p>
 
@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 
-<img align="right" src="[https://media.giphy.com/media/L1R1TVTh2HKpaUlxb9/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJuNTgydnh2c2V0bmo5dHR2Z295bmRoOGY4czN0OXVodXkzdjdvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="200" />
+<img align="right" src="https://media.giphy.com/media/L1R1TVTh2HKpaUlxb9/giphy.gif" width="200" />
 
 I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems. I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products.
 
@@ -43,13 +43,13 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 <div align="center">
   <a href="https://github.com/C3ZIZ/Dalil-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Dalil-RAG&theme=tokyonight&show_owner=true&bg_color=0d1117&hide_border=true" alt="Dalil-RAG" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Dalil-RAG&theme=tokyonight&show_owner=true" alt="Dalil-RAG" />
   </a>
   <a href="https://github.com/C3ZIZ/Bayan-binbaz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Bayan-binbaz&theme=tokyonight&show_owner=true&bg_color=0d1117&hide_border=true" alt="Bayan-binbaz" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Bayan-binbaz&theme=tokyonight&show_owner=true" alt="Bayan-binbaz" />
   </a>
   <a href="https://github.com/C3ZIZ/Abdulaziz-Core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Abdulaziz-Core&theme=tokyonight&show_owner=true&bg_color=0d1117&hide_border=true" alt="Abdulaziz-Core" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Abdulaziz-Core&theme=tokyonight&show_owner=true" alt="Abdulaziz-Core" />
   </a>
 </div>
 
