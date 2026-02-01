@@ -4,34 +4,30 @@
 
   **Backend Engineer | AI & RAG Specialist | Full Stack Developer**
 
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td align="center" width="90" style="border: none;">
         <a href="https://ahhh.sa" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="45" alt="Portfolio" />
-          <br />
-          <b>Portfolio</b>
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="40" alt="Portfolio" />
+          <br /><b>Portfolio</b>
         </a>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="90" style="border: none;">
         <a href="https://linkedin.com/in/ahhafiz" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="45" alt="LinkedIn" />
-          <br />
-          <b>LinkedIn</b>
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn" />
+          <br /><b>LinkedIn</b>
         </a>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="90" style="border: none;">
         <a href="https://x.com/CI3ZIZ" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="45" alt="X" />
-          <br />
-          <b>X / Twitter</b>
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40" alt="X" />
+          <br /><b>X</b>
         </a>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="90" style="border: none;">
         <a href="https://wa.me/966538623767" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="45" alt="WhatsApp" />
-          <br />
-          <b>WhatsApp</b>
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="40" alt="WhatsApp" />
+          <br /><b>WhatsApp</b>
         </a>
       </td>
     </tr>
@@ -45,13 +41,13 @@
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJuNTgydnh2c2V0bmo5dHR2Z295bmRoOGY4czN0OXVodXkzdjdvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="230" />
 
-[cite_start]I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems[cite: 6]. [cite_start]I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products[cite: 6, 7].
+I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems. I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products.
 
-[cite_start]Currently, I am expanding into **ML engineering** and **NLP** while building efficient solutions using **FastAPI** and **Laravel**[cite: 6].
+Currently, I am expanding into **ML engineering** and **NLP** while building efficient solutions using **FastAPI** and **Laravel**.
 
 * 🔭 **Current Focus:** RAG Systems, AI Agents, and NLP.
-* [cite_start]🌱 **Experience:** Full-stack development with **React (Vite)** and **Laravel**[cite: 13].
-* 🎓 **Education:** B.S. [cite_start]Computer Science (GPA 3.95/4 - First Class Honors)[cite: 38, 39].
+* 🌱 **Experience:** Full-stack development with **React (Vite)** and **Laravel**.
+* 🎓 **Education:** B.S. Computer Science (GPA 3.95/4 - First Class Honors).
 
 <br clear="right"/>
 
@@ -70,6 +66,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Abdulaziz-Core&theme=tokyonight" alt="Abdulaziz-Core" />
   </a>
 </div>
+
+<br/>
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **🤖 Dalil-RAG** | An intelligent document interaction system allowing users to **chat with their uploaded documents** using retrieval-augmented generation. | `RAG` `Python` `LLM` |
+| **🕌 Bayan-binbaz** | [cite_start]Arabic-first **Fatwa Assistant** built on the Ibn Baz corpus[cite: 41]. [cite_start]Uses **BGE-M3 embeddings** and **ALLAM** model for accurate, cited answers[cite: 53, 54]. | `RAG` `BGE-M3` `ALLAM` |
+| **⚙️ Abdulaziz-Core** | The core configuration and shared utilities that power my personal platform and development environment. | `Config` `Utils` |
 
 ---
 
