@@ -53,7 +53,20 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 ---
 
-### 📂 Featured Projects
+### 💼 Professional Experience & Research (NDA/Closed Source)
+
+*These projects are deployed in production or research environments but are not open-source.*
+
+| Project | Role | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **🏢 Riciety** | **Lead Developer** | Architected the **v1 production release** of the KnowledgeX productivity platform. Designed the database schema and built reactive interfaces. | `Laravel` `React` `PostgreSQL` |
+| **🧠 SilentReading** | **Researcher** | **BCI Graduation Project:** An end-to-end system translating **EEG brain signals into audible speech**, enabling communication without movement. | `Python` `Deep Learning` `BCI` |
+| **🕋 Badeel** | **Full Stack** | Built a centralized **Hajj Operations System** to manage lost Nusuk cards. Reduced processing errors and duplicates by **100%**. | `Full Stack` `Data Analysis` |
+| **📈 Rasid** | **Engineer** | Transformed vague requirements into a functional **Decision Support MVP**, allowing stakeholders to visualize complex metrics instantly. | `Dashboard` `Analytics` |
+
+---
+
+### 📂 Open Source & Personal Projects
 
 <div align="center">
   <a href="https://github.com/C3ZIZ/Dalil-RAG">
@@ -69,11 +82,11 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 <br/>
 
-| Project | Description | Stack |
+| Project | Description | Links |
 | :--- | :--- | :--- |
-| **🤖 Dalil-RAG** | An intelligent document interaction system allowing users to **chat with their uploaded documents** using retrieval-augmented generation. | `RAG` `Python` `LLM` |
-| **🕌 Bayan-binbaz** | [cite_start]Arabic-first **Fatwa Assistant** built on the Ibn Baz corpus[cite: 41]. [cite_start]Uses **BGE-M3 embeddings** and **ALLAM** model for accurate, cited answers[cite: 53, 54]. | `RAG` `BGE-M3` `ALLAM` |
-| **⚙️ Abdulaziz-Core** | The core configuration and shared utilities that power my personal platform and development environment. | `Config` `Utils` |
+| **🤖 Dalil-RAG** | **Privacy-First Document Chat:** A local RAG system that ensures data privacy. It analyzes uploaded files and allows users to "chat" with their documents without cloud exposure. | [**View Repo**](https://github.com/C3ZIZ/Dalil-RAG) |
+| **🕌 Bayan-binbaz** | **Islamic AI Assistant:** An Arabic-first RAG system built on the **Ibn Baz corpus**. Uses **BGE-M3 embeddings** and the **ALLAM model** to provide accurate, cited fatwas. | [**View Repo**](https://github.com/C3ZIZ/Bayan-binbaz) |
+| **⚙️ Abdulaziz-Core** | **Developer Ecosystem:** The core configuration, dotfiles, and scripts that power my personal development environment and server setups. | [**View Repo**](https://github.com/C3ZIZ/Abdulaziz-Core) |
 
 ---
 
