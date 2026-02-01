@@ -57,12 +57,12 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 *These projects are deployed in production or research environments but are not open-source.*
 
-| Project | Role | Description | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **🏢 Riciety** | **Lead Developer** | Architected the **v1 production release** of the KnowledgeX productivity platform. Designed the database schema and built reactive interfaces. | `Laravel` `React` `PostgreSQL` |
-| **🧠 SilentReading** | **Fullstack Dev & AI Integrator** | **BCI Graduation Project:** An end-to-end system translating **EEG brain signals into audible speech**, enabling communication without movement. | `Python` `Deep Learning` `BCI` |
-| **🕋 Badeel** | **Full Stack** | Built a centralized **Hajj Operations System** to manage lost Nusuk cards. Reduced processing errors and duplicates by **100%**. | `Full Stack` `Data Analysis` |
-| **📈 Rasid** | **Engineer** | Transformed vague requirements into a functional **Decision Support MVP**, allowing stakeholders to visualize complex metrics instantly. | `Dashboard` `Analytics` |
+| Project | Role | Description |
+| :--- | :--- | :--- |
+| **🏢 Riciety** | **Lead Developer** | Architected the **v1 production release** of the KnowledgeX productivity platform. Designed the database schema and built reactive interfaces. |
+| **🧠 SilentReading** | **Fullstack Dev & AI Integrator** | **BCI Graduation Project:** An end-to-end system translating **EEG brain signals into audible speech**, enabling communication without movement. |
+| **🕋 Badeel** | **Full Stack** | Built a centralized **Hajj Operations System** to manage lost Nusuk cards. Reduced processing errors and duplicates by **100%**. |
+| **📈 Rasid** | **Engineer** | Transformed vague requirements into a functional **Decision Support MVP**, allowing stakeholders to visualize complex metrics instantly. |
 
 ---
 
@@ -113,5 +113,5 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=C3ZIZ&theme=dark" alt="Streak Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=C3ZIZ&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=C3ZIZ&layout=compact&theme=dark&count_private=true" alt="Top Languages" />
 </div>
