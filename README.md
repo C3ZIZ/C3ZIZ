@@ -1,21 +1,21 @@
 <div align="center">
 
-  # Hi there, I'm Abdulaziz Hafiz (C3ZIZ) 👋
+  # Hi there, I'm Abdulaziz (C3ZIZ) 👋
 
   **Backend Engineer | AI & RAG Specialist | Full Stack Developer**
 
   <p>
     <a href="https://ahhh.sa" target="_blank">
-      <img src="https://cdn.simpleicons.org/googlechrome/white" height="30" alt="Portfolio" />
+      <img src="https://www.svgrepo.com/show/502858/suitcase-1.svg" width="30" alt="Portfolio" />
     </a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/ahhafiz" target="_blank">
-      <img src="https://cdn.simpleicons.org/linkedin/white" height="30" alt="LinkedIn" />
+      <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="30" alt="LinkedIn" />
     </a>&nbsp;&nbsp;
     <a href="https://x.com/CI3ZIZ" target="_blank">
-      <img src="https://cdn.simpleicons.org/x/white" height="30" alt="X" />
+      <img src="https://www.svgrepo.com/show/503359/twitter.svg" width="30" alt="X" />
     </a>&nbsp;&nbsp;
     <a href="https://wa.me/966538623767" target="_blank">
-      <img src="https://cdn.simpleicons.org/whatsapp/white" height="30" alt="WhatsApp" />
+      <img src="https://www.svgrepo.com/show/452123/whatsapp.svg" width="30" alt="WhatsApp" />
     </a>
   </p>
 
@@ -27,13 +27,13 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1TVTh2HKpaUlxb9/giphy.gif" width="200" />
 
-[cite_start]I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems[cite: 6]. [cite_start]I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products[cite: 7].
+I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems. I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products.
 
-[cite_start]Currently, I am expanding into **ML engineering** and **NLP** while building efficient solutions using **FastAPI** and **Laravel**[cite: 6].
+Currently, I am expanding into **ML engineering** and **NLP** while building efficient solutions using **FastAPI** and **Laravel**.
 
 * 🔭 **Current Focus:** RAG Systems, AI Agents, and NLP.
-* [cite_start]🌱 **Experience:** Full-stack development with **React (Vite)** and **Laravel**[cite: 13].
-* 🎓 **Education:** B.S. [cite_start]Computer Science (GPA 3.95/4 - First Class Honors)[cite: 38, 39].
+* 🌱 **Experience:** Full-stack development with **React (Vite)** and **Laravel**.
+* 🎓 **Education:** B.S. Computer Science (GPA 3.95/4 - First Class Honors).
 
 <br clear="right"/>
 
