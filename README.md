@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Abdulaziz (C3ZIZ) 👋
+  # Hi there, I'm Abdulaziz </>
 
   **Backend Engineer | AI & RAG Specialist**
 
