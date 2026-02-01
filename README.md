@@ -70,18 +70,6 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 ### 📂 Open Source & Personal Projects
 
-<div align="center">
-  <a href="https://github.com/C3ZIZ/Dalil-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Dalil-RAG&theme=tokyonight" alt="Dalil-RAG" />
-  </a>
-  <a href="https://github.com/C3ZIZ/Bayan-binbaz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Bayan-binbaz&theme=tokyonight" alt="Bayan-binbaz" />
-  </a>
-  <a href="https://github.com/C3ZIZ/Abdulaziz-Core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=C3ZIZ&repo=Abdulaziz-Core&theme=tokyonight" alt="Abdulaziz-Core" />
-  </a>
-</div>
-
 <br/>
 
 | Project | Description | Links |
