@@ -6,31 +6,34 @@
 
   <br />
 
-  <p align="center">
-    <a href="https://ahhh.sa" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="40" alt="Portfolio" />
-      <br />
-      <b>Portfolio</b>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/ahhafiz" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn" />
-      <br />
-      <b>LinkedIn</b>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/CI3ZIZ" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40" alt="X" />
-      <br />
-      <b>X</b>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://wa.me/966538623767" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="40" alt="WhatsApp" />
-      <br />
-      <b>WhatsApp</b>
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://ahhh.sa" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="45" alt="Portfolio" />
+          <br />Portfolio
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://linkedin.com/in/ahhafiz" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="45" alt="LinkedIn" />
+          <br />LinkedIn
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://x.com/CI3ZIZ" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="45" alt="X" />
+          <br />X
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://wa.me/966538623767" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="45" alt="WhatsApp" />
+          <br />WhatsApp
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -54,14 +57,14 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 ### 💼 Professional Experience & Research (NDA)
 
-*Projects deployed in production or research environments.*
+*These projects are deployed in production or research environments but are not open-source.*
 
 | Project | Role | Description |
 | :--- | :--- | :--- |
-| **🏢 Riciety** | **Lead Developer** | **(NDA)** Architected the **First Production Version (V1)** of the KnowledgeX platform. Designed the Laravel infrastructure and connected it with reactive React interfaces. |
+| **🏢 Riciety** | **Lead Developer** | Architected the **First Production Version (V1)** of the KnowledgeX platform. Designed the Laravel infrastructure and connected it with reactive React interfaces. |
 | **🧠 SilentReading** | **Fullstack & AI** | **(Graduation Project)** An integrated system translating **EEG brain signals into audible speech**. Led full-stack development and AI model integration for movement-free communication. |
-| **🕋 Badeel** | **Full Stack** | **(Field Solution)** A centralized Hajj Operations System to automate lost Nusuk card reports. Increased processing speed by **100%** and eliminated data redundancy. |
-| **📈 Rasid** | **Engineer** | **(NDA)** Transformed vague requirements into a **Decision Support MVP**. Built backend systems and interfaces to help stakeholders visualize complex metrics instantly. |
+| **🕋 Badeel** | **Full Stack** | Built a **centralized Hajj Operations System** to automate lost Nusuk card reports. Increased processing speed by **100%** and eliminated data redundancy and human error. |
+| **📈 Rasid** | **Engineer** | Transformed vague requirements into a **Decision Support MVP**. Built backend systems and interfaces to help stakeholders visualize complex metrics instantly. |
 
 ---
 
