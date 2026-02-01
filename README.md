@@ -6,21 +6,31 @@
 
   <br />
 
-  <a href="https://ahhh.sa" target="_blank" title="My Portfolio">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="35" alt="Portfolio" />
-  </a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="https://linkedin.com/in/ahhafiz" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="35" alt="LinkedIn" />
-  </a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="https://x.com/CI3ZIZ" target="_blank" title="X (Twitter)">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="35" alt="X" />
-  </a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="https://wa.me/966538623767" target="_blank" title="WhatsApp">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="35" alt="WhatsApp" />
-  </a>
+  <p align="center">
+    <a href="https://ahhh.sa" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="40" alt="Portfolio" />
+      <br />
+      <b>Portfolio</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/ahhafiz" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn" />
+      <br />
+      <b>LinkedIn</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/CI3ZIZ" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40" alt="X" />
+      <br />
+      <b>X</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://wa.me/966538623767" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="40" alt="WhatsApp" />
+      <br />
+      <b>WhatsApp</b>
+    </a>
+  </p>
 
 </div>
 
@@ -44,14 +54,14 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 
 ### 💼 Professional Experience & Research (NDA)
 
-*Projects deployed in production or research environments (Source: Portfolio).*
+*Projects deployed in production or research environments.*
 
 | Project | Role | Description |
 | :--- | :--- | :--- |
-| **🏢 Riciety** | **Lead Developer** | Built the **First Production Version (V1)** of the KnowledgeX platform. Architected the infrastructure (Laravel) and connected it with reactive interfaces (React), ensuring robust data engineering for future scalability. |
-| **🧠 SilentReading** | **Fullstack & AI** | **BCI Graduation Project:** An integrated system translating **EEG brain signals into audible speech**. Led full-stack development and AI model integration to enable communication without movement. |
-| **🕋 Badeel** | **Full Stack** | Built a **centralized Hajj Operations System** to automate lost Nusuk card reports. Increased processing speed by **100%** and eliminated data redundancy and human error. |
-| **📈 Rasid** | **Engineer** | Transformed vague requirements into a **Decision Support MVP**. Built backend systems and interfaces to help stakeholders visualize complex metrics instantly and efficiently. |
+| **🏢 Riciety** | **Lead Developer** | **(NDA)** Architected the **First Production Version (V1)** of the KnowledgeX platform. Designed the Laravel infrastructure and connected it with reactive React interfaces. |
+| **🧠 SilentReading** | **Fullstack & AI** | **(Graduation Project)** An integrated system translating **EEG brain signals into audible speech**. Led full-stack development and AI model integration for movement-free communication. |
+| **🕋 Badeel** | **Full Stack** | **(Field Solution)** A centralized Hajj Operations System to automate lost Nusuk card reports. Increased processing speed by **100%** and eliminated data redundancy. |
+| **📈 Rasid** | **Engineer** | **(NDA)** Transformed vague requirements into a **Decision Support MVP**. Built backend systems and interfaces to help stakeholders visualize complex metrics instantly. |
 
 ---
 
@@ -74,7 +84,7 @@ Currently, I am expanding into **ML engineering** and **NLP** while building eff
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **🤖 Dalil-RAG** | **Privacy-First Document Chat:** A local RAG solution for companies to analyze sensitive files and query them intelligently without cloud exposure. | [**View Repo**](https://github.com/C3ZIZ/Dalil-RAG) |
-| **🕌 Bayan-binbaz** | **Smart Fatwa Assistant:** An Arabic-first RAG system using **BGE-M3** and **ALLAM** models to provide accurate, single-source answers, overcoming traditional search limitations. | [**View Repo**](https://github.com/C3ZIZ/Bayan-binbaz) |
+| **🕌 Bayan-binbaz** | **Smart Fatwa Assistant:** An Arabic-first RAG system using **BGE-M3** and **ALLAM** models to provide accurate, single-source answers. | [**View Repo**](https://github.com/C3ZIZ/Bayan-binbaz) |
 | **⚙️ Abdulaziz-Core** | **Developer Ecosystem:** The core configuration, dotfiles, and scripts that power my personal development environment and server setups. | [**View Repo**](https://github.com/C3ZIZ/Abdulaziz-Core) |
 
 ---
