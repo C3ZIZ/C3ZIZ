@@ -4,20 +4,38 @@
 
   **Backend Engineer | AI & RAG Specialist | Full Stack Developer**
 
-  <p>
-    <a href="https://ahhh.sa" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="35" alt="Portfolio" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/ahhafiz" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="35" alt="LinkedIn" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/CI3ZIZ" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="35" alt="X" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://wa.me/966538623767" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="35" alt="WhatsApp" />
-    </a>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="https://ahhh.sa" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="45" alt="Portfolio" />
+          <br />
+          <b>Portfolio</b>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://linkedin.com/in/ahhafiz" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="45" alt="LinkedIn" />
+          <br />
+          <b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://x.com/CI3ZIZ" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="45" alt="X" />
+          <br />
+          <b>X / Twitter</b>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://wa.me/966538623767" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp--v1.png" width="45" alt="WhatsApp" />
+          <br />
+          <b>WhatsApp</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -27,13 +45,13 @@
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJuNTgydnh2c2V0bmo5dHR2Z295bmRoOGY4czN0OXVodXkzdjdvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="230" />
 
-I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems. I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products.
+[cite_start]I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems[cite: 6]. [cite_start]I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products[cite: 6, 7].
 
-Currently, I am expanding into **ML engineering** and **NLP** while building efficient solutions using **FastAPI** and **Laravel**.
+[cite_start]Currently, I am expanding into **ML engineering** and **NLP** while building efficient solutions using **FastAPI** and **Laravel**[cite: 6].
 
 * 🔭 **Current Focus:** RAG Systems, AI Agents, and NLP.
-* 🌱 **Experience:** Full-stack development with **React (Vite)** and **Laravel**.
-* 🎓 **Education:** B.S. Computer Science (GPA 3.95/4 - First Class Honors).
+* [cite_start]🌱 **Experience:** Full-stack development with **React (Vite)** and **Laravel**[cite: 13].
+* 🎓 **Education:** B.S. [cite_start]Computer Science (GPA 3.95/4 - First Class Honors)[cite: 38, 39].
 
 <br clear="right"/>
 
