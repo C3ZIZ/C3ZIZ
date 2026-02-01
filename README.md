@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1TVTh2HKpaUlxb9/giphy.gif" width="200" />
+<img align="right" src="[https://media.giphy.com/media/L1R1TVTh2HKpaUlxb9/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJuNTgydnh2c2V0bmo5dHR2Z295bmRoOGY4czN0OXVodXkzdjdvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="200" />
 
 I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs and data-driven systems. I combine robust backend logic with **RAG architectures** and clean React frontends to ship production-ready products.
 
