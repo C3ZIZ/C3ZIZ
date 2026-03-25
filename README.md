@@ -47,7 +47,7 @@ I am a **Backend Engineer** and **AI Researcher** specializing in scalable APIs 
 
 While my core strength is in Backend & AI, I am **actively building towards Full Stack mastery** by integrating clean React interfaces to ship complete, production-ready products.
 
-* 🔭 **Current Focus:** RAG Systems, AI Agents, and NLP.
+* 🔭 **Current Focus:** RAG Systems, AI Agents, and Building Scalable Systems.
 * 🌱 **Building Towards:** Advanced Full Stack Architecture (React/Vite).
 * 🎓 **Education:** B.S. Computer Science (First Class Honors).
 
