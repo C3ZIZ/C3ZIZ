@@ -2,7 +2,7 @@
 
   # Hi there, I'm Abdulaziz </>
 
-  **Backend Engineer | AI & RAG Specialist**
+  **Software Engineer | AI & RAG Specialist**
 
   <br />
 
